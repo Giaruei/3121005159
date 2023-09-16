@@ -1,0 +1,5 @@
+com\wxh\utils\ShortStringException.class
+com\wxh\main\MainPaperCheck.class
+com\wxh\utils\HammingUtils.class
+com\wxh\utils\TxtIOUtils.class
+com\wxh\utils\SimHashUtils.class

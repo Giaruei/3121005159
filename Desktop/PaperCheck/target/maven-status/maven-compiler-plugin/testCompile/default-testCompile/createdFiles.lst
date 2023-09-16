@@ -1,0 +1,5 @@
+com\wxh\main\MainTest.class
+com\wxh\utils\HammingUtilsTest.class
+com\wxh\utils\ShortStringExceptionTest.class
+com\wxh\utils\SimHashUtilsTest.class
+com\wxh\utils\TxtIOUtilsTest.class
